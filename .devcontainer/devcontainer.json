@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/vscode/devcontainers/flutter", 
+  "extensions": [
+    "dart-code.flutter"
+  ]
+}
